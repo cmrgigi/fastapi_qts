@@ -6,4 +6,5 @@ def classificador_nota(nota:float) -> str:
     if nota >=5:
         return "recuperacao"
     return "reprovado"
-       
+
+    
